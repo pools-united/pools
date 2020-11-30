@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "5fc5443094d1b5887a93aa92",
+    "index": 0,
+    "guid": "22ad15e7-2631-4b72-bec7-c93d4f4f0511",
+    "isActive": true,
+    "balance": "$1,144.37",
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "eyeColor": "green",
+    "name": "Louise Sosa",
+    "gender": "female",
+    "company": "FISHLAND",
+    "email": "louisesosa@fishland.com",
+    "phone": "+1 (801) 404-2691",
+    "address": "677 Forbell Street, Leeper, Oregon, 2938",
+    "about": "Consequat deserunt sit nisi laborum voluptate duis nulla nostrud enim in fugiat ea labore ad. Occaecat veniam irure duis reprehenderit ex do id est exercitation ea in exercitation qui dolor. Qui exercitation nulla est ullamco id laborum. Ipsum duis elit ullamco fugiat laborum esse do laborum ut duis ea deserunt ea. Minim sit ea quis nulla laborum aliquip magna. Cillum commodo tempor cillum esse aute in laboris aliqua ipsum dolor. Nisi magna fugiat ipsum aliquip non excepteur mollit reprehenderit ipsum quis sint ut irure.\r\n",
+    "registered": "2014-10-17T04:00:51 -02:00",
+    "latitude": -26.009815,
+    "longitude": -72.371406,
+    "tags": [
+      "mollit",
+      "labore",
+      "laborum",
+      "incididunt",
+      "sunt",
+      "aliquip",
+      "cillum"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Dee Maxwell"
+      },
+      {
+        "id": 1,
+        "name": "Marcella Benson"
+      },
+      {
+        "id": 2,
+        "name": "Cantrell Hampton"
+      }
+    ],
+    "greeting": "Hello, Louise Sosa! You have 1 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
+]
