@@ -13,8 +13,5 @@
            "server": "1 block producer and 2 relays"
            
        }
-   },
-   "my-pool-ids": [
-    "778c20f1e2e56ef7b39610242b9dd216"
-   ]
+   }
 }
