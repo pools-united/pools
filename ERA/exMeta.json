@@ -1,8 +1,7 @@
 {
     "info": {
-       "url_png_icon_64x64": "https://pools-united.github.io/pools-json/ERA/fresco_64.png",
-       "url_png_logo": "https://pools-united.github.io/pools-json/ERA/assets/fresco_logo_black.png",
-       "location": "Frankfurt, Germany",
+       "url_png_icon_64x64": "https://pools-united.github.io/pools-json/ERA/assets/era_64.png",
+       "url_png_logo": "https://pools-united.github.io/pools-json/ERA/assets/era_logo_black.png",
        "social": {
            "twitter_handle": "PoolVenus",
            "telegram_handle": "frescopool",
