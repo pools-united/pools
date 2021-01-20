@@ -1,0 +1,49 @@
+{
+    "adapools": {
+        "about": {
+            "name": "Cardano Pools United",
+            "description_short": "Big collaboration of small stake pools and skilled pool operators.",
+            "description_long": "Cardano Pools United is a collaboration of stake pools operators with the goal to contribute to the Cardano ecosystem by educating the people about Cardano blockchain and using our developer knowledge to develop the tools needed to make the delegation process informative and painless. Our CPU pool will be used to pay for the cloud based relays and we pledged to donate the rest to the cause voted by the community. To make that happen help kickstart CPU pool.",
+            "website": "https://www.cpoolsunited.com/",
+            "url_png_icon_64x64": "https://pools-united.github.io/pools/CPU/assets/cpu_64.png",
+            "url_png_logo": "https://pools-united.github.io/pools/CPU/assets/cpu_logo_black.png",
+            "social": {
+                "twitter_handle": "cpoolsunited",
+                "telegram_handle": "cpoolsunited",
+                "youtube_handle": "UCPJ4UFyhEpqxYgcAWkplchw"
+            },
+            "types": {
+                "charity": true,
+                "business": false,
+                "beneficial": true
+            }
+        },
+        "members": {
+            "0": {
+                "pool_id": "b45c1860e038baa0642b352ccf447ed5e14430342a11dd75bae52f39",
+                "member_since": "2020-11-30",
+                "name": "Cardano Team"
+            },
+            "1": {
+                "pool_id": "19cb138eab81d3559e70094df2b6cb1742bf275e920300d5c3972253",
+                "member_since": "2020-07-30",
+                "name": "Filip Strelec"
+            },
+            "2": {
+                "pool_id": "13375a4a5470b564246a3251ea0ccfef046ee5bcaf3ed6de6315abc7",
+                "member_since": "2020-12-01",
+                "name": "Mlinaric sisters"
+            },
+            "3": {
+                "pool_id": "3e5fcbaf750c0291cecb72384091724a1c2d35da10a71473e16c926f",
+                "member_since": "2020-11-30",
+                "name": "Emil Balint"
+            },
+            "4": {
+                "pool_id": "9f38b462566102fe9bc1061131f298164d51ea54464ad984d486ce87",
+                "member_since": "2020-11-30",
+                "name": "Dario Ursulin"
+            }
+        }
+    }
+}
