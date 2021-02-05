@@ -3,7 +3,9 @@
         "url_png_icon_64x64": "https://pools-united.github.io/pools/MINES/assets/mines_64.png",
         "url_png_logo": "https://pools-united.github.io/pools/MINES/assets/mines_logo_black.png",
        "social": {
-           "github_handle" : "embalint"
+           "github_handle" : "embalint",
+           "twitter_handle": "AdastraMines",
+           "telegram_handle": "cpoolsunited"
           
        },
        "about": {
