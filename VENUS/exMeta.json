@@ -9,7 +9,7 @@
     },
     "about": {
       "me": "I'm a software developer from Croatia. I have been ADA HODLer since 2017. In March 2020 I decided to have a more active role in Cardano community so I deployed Fresco pool on ITN with a friend.  Get in touch with me via LinkedIn: https://www.linkedin.com/in/filip-strelec ",
-      "server": "1 block producer and 3 relays"
+      "server": "1 block producer and 3 relays, 2 cloud based and one bare metal connected to 1 Gbit/s network"
     }
   }
 }

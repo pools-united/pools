@@ -37,17 +37,7 @@
             "3": {
                 "pool_id": "3e5fcbaf750c0291cecb72384091724a1c2d35da10a71473e16c926f",
                 "member_since": "2020-11-30",
-                "name": "Emil Balint"
-            },
-            "4": {
-                "pool_id": "b00b421fbc620f0a2fdcf3243265d253b2e30c40da2c172dc5ab4640",
-                "member_since": "2021-02-28",
-                "name": "Miha Santek"
-            },
-            "5": {
-                "pool_id": "6c81475fe8b32b5dfde307325a2cb115de26a466037d0ec76bb499b3",
-                "member_since": "2021-09-03",
-                "name": "Zvonimir Mlinaric"
+                "name": "Emil Balint and Stjepan Crncic"
             }
         }
     }
