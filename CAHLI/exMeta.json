@@ -1,0 +1,14 @@
+{
+  "info": {
+    "url_png_icon_64x64": "TODO",
+    "url_png_logo": "TODO",
+    "social": {
+      "twitter_handle": "cahlistakepool",
+      "telegram_handle": "cahlipool"
+    },
+    "about": {
+      "me": "I'm a Medical student in Africa, A community builder and Very passionate about giving technical insight to promote web 3 projects. A Stake pool operator with a passion to explore the world. Cahli pool is first Nigerian Cardano Stake Pool, made with a goal to help African community.",
+      "server": "1 block producer and 2 cloud based relays with a plan of creating a bare-metal relay in Nigeria"
+    }
+  }
+}
