@@ -22,7 +22,7 @@
             "0": {
                 "pool_id": "b45c1860e038baa0642b352ccf447ed5e14430342a11dd75bae52f39",
                 "member_since": "2020-11-30",
-                "name": "Cardano Team"
+                "name": "Cardano Pools United Team"
             },
             "1": {
                 "pool_id": "19cb138eab81d3559e70094df2b6cb1742bf275e920300d5c3972253",
@@ -32,12 +32,17 @@
             "2": {
                 "pool_id": "13375a4a5470b564246a3251ea0ccfef046ee5bcaf3ed6de6315abc7",
                 "member_since": "2020-12-01",
-                "name": "Mlinaric sisters"
+                "name": "Patricia and Nora Mlinaric"
             },
             "3": {
                 "pool_id": "3e5fcbaf750c0291cecb72384091724a1c2d35da10a71473e16c926f",
                 "member_since": "2020-11-30",
                 "name": "Emil Balint and Stjepan Crncic"
+            },
+            "4": {
+                "pool_id": "3ee7ce97d36822f511cac6bbd76b70350684f8bb4ced5366842a96c9",
+                "member_since": "2025-01-03",
+                "name": "Shittu Muiz"
             }
         }
     }
